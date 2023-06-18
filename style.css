@@ -1,0 +1,15 @@
+h1 {
+    background: red;
+}
+
+.paragraph-1 {
+    background: yellow;
+    font-size: 25px;
+    color: peru;
+    font-style: oblique;
+}
+
+.image-1 {
+    width: 30%;
+    height: auto;
+}
